@@ -1,0 +1,45 @@
+body {
+    margin: 2%;
+}     
+
+.alerts {  
+    margin-top: 40px;              
+    padding: 5px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+                        
+section {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 2%;
+    
+}
+
+.summary {
+    color: white;
+    background-color: #282828;
+    padding: 5px;
+    margin: 3%;
+    box-sizing: border-box;
+}
+
+.summary:hover {
+    background-color: white;
+    color: black;
+}
+
+.summary > a:hover {
+    color: black;
+}    
+
+span {
+    color: red;
+}
+
+footer {
+    background-color: rgb(43, 145, 128);
+    }
